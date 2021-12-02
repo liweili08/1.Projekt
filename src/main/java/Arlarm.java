@@ -12,5 +12,8 @@ public class Arlarm {
                 System.out.println("Maximale Personenanzahl nicht überschritten.");
                 return true;
             }
+
+
+
         }
     }
